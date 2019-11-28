@@ -29,10 +29,6 @@ artifacts:
 
 deploy:
   - provider: Environment
-    name: MyGet EMG Public
-    on:
-      branch: master
-  - provider: Environment
     name: NuGet EMG
     on:
       branch: master
