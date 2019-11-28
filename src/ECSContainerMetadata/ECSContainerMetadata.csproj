@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>EMG.Extensions.Logging.Loggly</PackageId>
-    <PackageTags>dotnet-standard;logging;loggly</PackageTags>
+    <PackageId>EMG.Extensions.Configuration.ECSContainerMetadata</PackageId>
+    <PackageTags>dotnet-standard;configuration;aws-ecs;aws;ecs</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
